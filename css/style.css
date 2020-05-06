@@ -1,0 +1,30 @@
+body {
+    padding: inherit;
+    background: rgb(27, 69, 147);
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 97, 247);
+    background: rgb(0, 0, 0);
+    font-size: 450% ;
+    margin-top: 0;
+}
+
+.section {
+    color: rgb(0, 0, 0);
+    font-size: 300%;
+    text-align: right;
+    margin-top: auto;
+
+}
+
+.controls {
+    margin-top:5 px;
+    border-bottom: 5px solid rgb(190, 241, 14);
+}
+
+footer {
+margin-top: 30%;
+}
